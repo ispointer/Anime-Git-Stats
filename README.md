@@ -2,6 +2,6 @@
 
 ## Preview
 
-| App UI |
+| git stats |
 | --- |
 | ![App UI](hello.png) |
